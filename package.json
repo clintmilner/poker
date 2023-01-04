@@ -1,0 +1,12 @@
+{
+  "name": "poker",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/clintmilner/poker.git",
+  "author": "Clint Milner",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "prettier": "2.8.1"
+  }
+}
